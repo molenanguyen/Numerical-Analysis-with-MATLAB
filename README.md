@@ -1,2 +1,2 @@
-Author: Thy (Molena) Hoang-Xuan Nguyen
-# 4 Numerical Analysis programs with MATLAB
+Author:Molena Nguyen
+# Numerical Analysis programs with MATLAB
