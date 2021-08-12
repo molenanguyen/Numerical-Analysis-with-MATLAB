@@ -1,5 +1,6 @@
-% Base 10 to Base 2
-x = input("Number in base 10: ")
+% Base 10 to Base 2 whole number
+function Base_10_to_Base2(x)
+%x = input("Number in base 10: ")
 b = []
 if x == 0
   disp(b)
@@ -16,3 +17,4 @@ else
   endwhile
   disp(b)
  endif
+endfunction
